@@ -1,0 +1,28 @@
+.btn-primary{
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: light;
+    border: none;
+    border-radius: 4px;
+}
+.btn-primary:hover{
+    background-color: wheat;
+    color: black;
+    cursor: pointer;
+}
+.btn-outline{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: light;
+    border: none;
+    border-radius: 4px;
+}
+.btn-outline:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
